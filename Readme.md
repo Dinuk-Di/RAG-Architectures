@@ -422,6 +422,10 @@ flowchart TD
 flowchart TD
     A[User Query] --> B[Retrieve Context Cache]
     B --> C[Contextual Response Generation]
+```
+
+```mermaid
+flowchart TD
     C --> D[User Feedback Collection]
     D --> E[Update Context Cache]
     E --> F[Optimize Context Consistency]
@@ -440,6 +444,10 @@ flowchart TD
 flowchart TD
     A[User Query] --> B[Deep Document Retrieval]
     B --> C[Intuitive Response Generation]
+```
+
+```mermaid
+flowchart TD
     C --> D[Feedback Collection]
     D --> E[Refine Concept Understanding]
     E --> F[Optimize Grokking Ability]
@@ -458,6 +466,10 @@ flowchart TD
 flowchart TD
     A[User Query] --> B[External Source Identification]
     B --> C[Retrieve External Data]
+```
+
+```mermaid
+flowchart TD
     C --> D[User Feedback Collection]
     D --> E[Refine Data Source Selection]
     E --> F[Optimize External Retrieval]
@@ -476,6 +488,10 @@ flowchart TD
 flowchart TD
     A[User Query] --> B[Image Data Retrieval]
     B --> C[Attention-Based Segmentation]
+```
+
+```mermaid
+flowchart TD
     C --> D[Detailed Response Generation]
     D --> E[User Feedback Collection]
     E --> F[Optimize Segmentation]
